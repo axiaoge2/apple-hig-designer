@@ -52,13 +52,13 @@ cp -r apple-hig-designer .claude/skills/
 
 Once installed, Claude Code will automatically activate this skill when you:
 
-- Ask for "Apple-style" or "iOS/macOS-style" interfaces
-- Request "HIG-compliant" UI components
-- Mention "Liquid Glass" design effects
-- Use trigger phrases like:
-  - "Design an Apple-style..."
-  - "Create a HIG-compliant..."
-  - "苹果风格的界面"
+- Please tell Claude Code that you want to use apple-hig-designer, and then use the following trigger phrases:
+
+"Design an Apple-style..."
+
+"Create a HIG-compliant..."
+
+"iOS-style component"
 
 ## 📁 File Structure
 
