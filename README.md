@@ -50,15 +50,18 @@ cp -r apple-hig-designer .claude/skills/
 
 ## 🚀 Usage
 
-Once installed, Claude Code will automatically activate this skill when you:
+After installation, Claude Code will automatically activate this skill when you perform the following actions:
 
-- Please tell Claude Code that you want to use apple-hig-designer, and then use the following trigger phrases:
+Basic usage: Please tell Claude Code that you want to use apple-hig-designer.
+Example
+- "Design an Apple-style..."
+- "Create a HIG-compliant..."
+- "iOS-style components"
 
-"Design an Apple-style..."
-
-"Create a HIG-compliant..."
-
-"iOS-style component"
+Advanced usage: Integrate apple-hig-desiner with other styles, using apple-hig-desiner as the basic design framework.
+Example
+"Using your apple-hig-desiner skills and a cyberpunk aesthetic, could you help me develop a robot showcase page?"
+"Using apple-hig-desiner skills to blend other styles, how would you recommend a style for developing a blog-themed website?"
 
 ## 📁 File Structure
 
