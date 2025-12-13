@@ -6,7 +6,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude-Code_Skill-5A67D8?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-**A professional-grade Claude Code Skill for creating interfaces following Apple's Human Interface Guidelines (HIG)**
+**Apple-Hig-Designer is used to create interfaces that conform to Apple Hig principles and blend with various styles.**
 
 [English](README.md) | [简体中文](README_CN.md)
 
