@@ -79,6 +79,24 @@ apple-hig-designer/
     └── ui-patterns.md    # UI 模式文档
 ```
 
+## 📸 基础效果展示
+
+
+<div align="center">
+
+单页面设计
+"设计一个Web端的Mac风格的聊天页面"
+
+<!-- macOS Chat Page -->
+![macOS Chat](screenshots/macos-chat.png) 
+
+“创建 iOS 页面转场动画”
+
+<!-- Page Transitions -->
+![Page Transitions](screenshots/page-transitions.gif) 
+
+</div>
+
 ## 🎨 功能特性
 
 | 功能 | 描述 |
