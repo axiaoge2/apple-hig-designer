@@ -6,7 +6,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude-Code_Skill-5A67D8?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-** Apple-Hig-Designer，用于创建符合 Apple HIG以底层原则与各种风格融合的界面**
+ Apple-Hig-Designer，用于创建符合 Apple HIG以底层原则与各种风格融合的界面
 
 [English](README.md) | [简体中文](README_CN.md)
 
