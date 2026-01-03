@@ -79,7 +79,7 @@ apple-hig-designer/
     └── ui-patterns.md    # UI 模式文档
 ```
 
-## 📸 基础效果展示
+## 📸 基础效果展示：
 
 
 <div align="center">
@@ -96,6 +96,12 @@ apple-hig-designer/
 ![Page Transitions](screenshots/page-transitions.gif) 
 
 </div>
+
+
+📸风格融合设计：
+“请运用您高超的苹果设计师技能，选择一个合适的框架，并开发一个完整的响应式前端项目，融入奢侈品牌的美学理念。”
+
+Vercle：https://fashion-editorial.vercel.app/
 
 ## 🎨 功能特性
 
